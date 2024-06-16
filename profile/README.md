@@ -11,7 +11,7 @@ DerpFest AOSP
 
 We currently support Android 14 QPR2, with the latest security patches from Google. Status: June 2024
 
-Besides we kinda lowkey support Android 13 as well, with the backported latest security patches from Google. Status: May 2024
+Besides we kinda lowkey support Android 13 as well, with the backported latest security patches from Google. Status: June 2024
 
 ### Maybe what you need
 
