@@ -9,4 +9,4 @@ crystalOS-AOSP
 > Experience the crystalline perfection of CrystalOS, a sleek and powerful Android ROM based on DerpFest. Elevate your device with enhanced stability, top-notch performance, and extensive customization options, all wrapped in a polished and refined interface.
 
 ### Check Manifest
-- [Manifest](https://github.com/DerpFest-AOSP/android_manifest)
+- [Manifest](https://github.com/crystalOS-AOSP/android_manifest)
