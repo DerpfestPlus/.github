@@ -1,22 +1,13 @@
-![DerpFest AOSP](https://raw.github.com/DerpFest-AOSP/manifest/13/derp.png)
+![crystalOS-AOSP](https://raw.github.com/crystalOS-AOSP/android_manifest/15/crystal.jpg)
 
-DerpFest AOSP
+crystalOS-AOSP
 ---------------
+> Welcome to crystalOS AOSP!
 
-[![Download DerpFest](https://img.shields.io/badge/Downloads-6.2M-green.svg)](https://sourceforge.net/projects/derpfest/files)
+> We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community
 
-> Welcome to DerpFest AOSP!
+> Experience the crystalline perfection of CrystalOS, a sleek and powerful Android ROM based on DerpFest. Elevate your device with enhanced stability, top-notch performance, and extensive customization options, all wrapped in a polished and refined interface.
 
-> We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the best Android has to offer, ~~strongly inspired by [AOSiP](https://github.com/AOSiP)~~
+### Check Manifest
 
-We currently support Android 15, with the latest security patches from Google. Status: October 2024
-
-Besides we kinda lowkey support Android 14 as well, with the backported latest security patches from Google. Status: October 2024
-
-And the same applies to Android 13, with the backported latest security patches from Google. Status: October 2024
-
-### Maybe what you need
-
-- [Manifest](https://github.com/DerpFest-AOSP/manifest)
-- [Device sources](https://github.com/DerpFest-Devices)
-- [Telegram](https://t.me/DerpFestAOSP)
+- [Manifest](https://github.com/DerpFest-AOSP/android_manifest)
